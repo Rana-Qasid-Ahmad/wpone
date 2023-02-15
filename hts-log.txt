@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Feb 2023 22:52:23 at https://wbify.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wbify.com/ -O1 "C:\My Web Sites\wp1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/classic-theme-styles.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/global-styles.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/hello-elementor.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/hello-elementor-theme-style.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/elementor-post-49.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/cherry-handler-css.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/jet-widgets.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/jet-widgets-skin.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/jet-juxtapose-css.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/elementor-icons.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/elementor-frontend.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/swiper.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/elementor-pro.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/elementor-post-9.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/google-fonts-1.css (from https://wbify.com/)
+22:53:16	Error: 	"Not Found" (404) at link https://wbify.com/hello-theme-frontend.js (from https://wbify.com/)
+22:53:19	Error: 	"Not Found" (404) at link https://wbify.com/-negative.svg (from https://wbify.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.0)
+22:53:19	Error: 	"Not Found" (404) at link https://wbify.com/OPR/ (from https://wbify.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 56 seconds : 85 links scanned, 66 files written (5293610 bytes overall) [3145892 bytes received at 56176 bytes/sec], 4454282 bytes transferred using HTTP compression in 68 files, ratio 29%, 10.6 requests per connection
+(18 errors, 0 warnings, 0 messages)
